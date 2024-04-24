@@ -11,4 +11,4 @@ Dengan menggunakan URL yang sama, baik program subscriber maupun publisher akan 
 
 # Run RabbitMQ
 
-![Run RabbitMQ](images\run_rabbitmq.png)
+![Run RabbitMQ](images/run_rabbitmq.png)
