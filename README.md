@@ -8,3 +8,7 @@ Ketika URL "amqp://guest:guest@localhost:5672" digunakan di program subscriber d
 - "localhost:5672" menunjukkan bahwa broker pesan berjalan di mesin lokal pada port 5672.
 
 Dengan menggunakan URL yang sama, baik program subscriber maupun publisher akan terhubung ke broker pesan yang sama, memfasilitasi pertukaran pesan antara keduanya. 
+
+# Run RabbitMQ
+
+![Run RabbitMQ](images\run_rabbitmq.png)
