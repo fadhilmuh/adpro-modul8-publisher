@@ -12,3 +12,10 @@ Dengan menggunakan URL yang sama, baik program subscriber maupun publisher akan 
 # Run RabbitMQ
 
 ![Run RabbitMQ](images/run_rabbitmq.png)
+
+# Sending and Processing Event
+
+![Sending and Processing Event](images/sendin_and_processing_event.png)
+
+
+Publisher mengirimkan pesan ke broker RabbitMQ, dan Subscriber mengambil serta memproses pesan-pesan tersebut, mirip dengan tampilan pada konsol. Ini menggambarkan bagaimana data dikirim dari Publisher ke Subscriber melalui RabbitMQ sebagai perantara.
