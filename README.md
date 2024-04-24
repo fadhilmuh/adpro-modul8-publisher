@@ -19,3 +19,8 @@ Dengan menggunakan URL yang sama, baik program subscriber maupun publisher akan 
 
 
 Publisher mengirimkan pesan ke broker RabbitMQ, dan Subscriber mengambil serta memproses pesan-pesan tersebut, mirip dengan tampilan pada konsol. Ini menggambarkan bagaimana data dikirim dari Publisher ke Subscriber melalui RabbitMQ sebagai perantara.
+
+# Monitoring Chart
+![Monitoring Chart](images/chart_analysis.png)
+
+Grafik tersebut memvisualisasikan aktivitas publisher dalam mengirim pesan. Dengan memantau tingkat pesan terakhir yang dikirim dalam satu menit, kita dapat menilai apakah beban kerja yang dijalankan oleh publisher dalam mengirim pesan tersebut berat atau ringan. Hal ini penting untuk memahami volume pengiriman dan pemrosesan yang terjadi.
